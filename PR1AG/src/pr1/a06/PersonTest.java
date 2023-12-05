@@ -9,7 +9,7 @@ import schimkat.berlin.lernhilfe2023ws.objectPlay.Person;
 public class PersonTest {
     public static void main(String[] args) {
         try (PrintWriter out = new PrintWriter(System.out)) {
-//            ArrayList<Person> persons = PersonFactory.createTestPersons();
+//            ArrayList<Person> persons = PersonFactory.createTestPersons(); da geht was nicht
 //            printPersons(out, persons);
             test(out);
         }
