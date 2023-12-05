@@ -1,0 +1,10 @@
+Anna       Müller     1985
+David      Schmidt    1990
+Sofia      Wagner     1978
+Jonas      Becker     2000
+Laura      Weber      1982
+Felix      Richter    1995
+Emma       Schulz     1989
+Leon       Bauer      2003
+Mia        Hoffmann   1978
+Timo       Keller     1998
